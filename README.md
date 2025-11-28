@@ -1,3 +1,5 @@
+[fraud detection.ipynb](https://github.com/user-attachments/files/23826838/fraud.detection.ipynb)
+[fraud detection.ipynb](https://github.com/user-attachments/files/23826831/fraud.detection.ipynb)
 # Fraud Detection — Credit Card Transactions
 
 This project builds a machine learning model to detect fraudulent credit card transactions using Python.  
